@@ -1,1 +1,29 @@
-/* CSS declarations go here */
+.main.row {
+	padding-top: 40px;
+	color: #555;
+}
+
+.post .meta-info {
+	margin-bottom: 12px;
+}
+
+.post .content {
+	font-size: 14px;
+	line-height: 1.4em;
+}
+
+.post .actions-stats-panel {
+	padding-top: 15px;
+	font-size: 14px;
+}
+
+.post .actions {
+	margin-right: 10px;
+}
+.post .action a {
+	margin-right: 5px;
+}
+
+.post .stats span {
+	margin-left: 8px;
+}

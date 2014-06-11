@@ -2,6 +2,7 @@
   "packages": {
     "zurb-foundation": {},
     "semantic-ui": {},
-    "iron-router": {}
+    "iron-router": {},
+    "spin": {}
   }
 }

@@ -1,5 +1,6 @@
 <template name="posts_list">
     <div class="posts stream full small-centered small-12 medium-6 columns">
+    	{{> post_submit}}
         {{#each posts}} 
         	{{> post_item}} 
         {{/each}}

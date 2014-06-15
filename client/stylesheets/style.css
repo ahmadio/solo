@@ -9,6 +9,24 @@ body {
 	color: #555;
 }
 
+/*login dropdown*/
+
+#login-buttons {
+	padding-right: 80px;
+}
+
+.additional-link-container a {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+#login-buttons .login-close-text{
+	padding-bottom: 0;
+}
+
+/*end login dropdown*/
+
 .post .meta-info {
 	margin-bottom: 12px;
 }
